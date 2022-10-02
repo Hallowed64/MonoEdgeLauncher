@@ -1,0 +1,14 @@
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MonoEdgeLauncher.csproj.AssemblyReference.cache
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MainWindow.baml
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MainWindow.g.cs
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\App.g.cs
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MonoEdgeLauncher_MarkupCompile.cache
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MonoEdgeLauncher.g.resources
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MonoEdgeLauncher.Properties.Resources.resources
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MonoEdgeLauncher.csproj.GenerateResource.cache
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MonoEdgeLauncher.csproj.CoreCompileInputs.cache
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\bin\Debug\MonoEdgeLauncher.exe.config
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\bin\Debug\MonoEdgeLauncher.exe
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\bin\Debug\MonoEdgeLauncher.pdb
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MonoEdgeLauncher.exe
+C:\Users\pakla\Development\C#\MonoEdgeLauncher\MonoEdgeLauncher\MonoEdgeLauncher\obj\Debug\MonoEdgeLauncher.pdb
